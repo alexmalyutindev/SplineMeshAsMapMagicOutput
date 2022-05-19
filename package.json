@@ -1,0 +1,9 @@
+{
+  "name": "com.github.twobob.mapmagic-2-spline-mesh",
+  "displayName": "SplineMeshAsMapMagicOutput",
+  "version": "1.0.0",
+  "unity": "2019.2",
+  "description": "Spline Mesh integration for MapMagic2",
+  "dependencies": {
+  }
+}
